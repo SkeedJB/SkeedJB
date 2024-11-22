@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @SkeedJB
 - 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on anything and everything.
+- 🤖 Looking to build my skills and eventually enter the field of machine learning.
+- 💻 I’m looking to collaborate on anything and everything.
 - 📫 How to reach me: jdberrios1@yahoo.com
 
 <!---
