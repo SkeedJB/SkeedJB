@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @SkeedJB
-- 🌱 I’m currently learning Python.
-- 🤖 Looking to build my skills and eventually enter the field of machine learning.
+- 🌱 I’ve been learning Python since mid-October 2024.
+- 🤖 I like to make procedural generation related projects. I also want to get into machine learning in the future. 
 - 💻 I’m looking to collaborate on anything and everything.
-- 📫 How to reach me: jdberrios1@yahoo.com
+- 📫 How to reach me: [X/Twitter](https://x.com/factualson) | Discord: .skeed.
 
 <!---
 SkeedJB/SkeedJB is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
